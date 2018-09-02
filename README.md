@@ -15,7 +15,7 @@ The following items have been taken from these guides:
 
 #### Tier 1 - getting started
 
-* [ ] Course: [Introduction to Computer Science - CS50 (up to Week 7)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) *Currently on Week 6*
+* [X] Course: [Introduction to Computer Science - CS50 (thru Week 6)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) **Completed on September 2nd, 2018**
 * [ ] Course: [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 * [X] ~~Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects~~ **Completed on August 27th, 2018**
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
