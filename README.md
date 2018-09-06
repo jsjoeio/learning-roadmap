@@ -28,6 +28,7 @@ The following items have been taken from these guides:
 ##### Milestones 
 - completed Article: Read Project Specification Documents on August 27th, 2018
 - completed CS50 on September 2nd, 2018
+- started Introduction to COmputer Science and Programming with Python
 
 <!-- #### Tier 2 - develop more expertise
 
