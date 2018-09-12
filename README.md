@@ -31,6 +31,7 @@ The following items have been taken from these guides:
 - started Introduction to Computer Science and Programming with Python
 - completed "Build a Survey Form" on September 9th, 2018
 - completed Week 1 videos for Intro to Comp Sci...now onto Problem Sets
+- completed challenges 1 and 2 of Problem Set 1
 
 <!-- #### Tier 2 - develop more expertise
 
