@@ -32,6 +32,7 @@ The following items have been taken from these guides:
 - completed "Build a Survey Form" on September 9th, 2018
 - completed Week 1 videos for Intro to Comp Sci...now onto Problem Sets
 - completed challenges 1 and 2 of Problem Set 1
+- still working on pset1, problem 3
 
 <!-- #### Tier 2 - develop more expertise
 
