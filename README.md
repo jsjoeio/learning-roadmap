@@ -33,8 +33,8 @@ The following items have been taken from these guides:
 - completed Week 1 videos for Intro to Comp Sci...now onto Problem Sets
 - completed pset1
 - completed Week 2
-- completed Week 3 videos, now onto pset2
-- started working on pset2, problem 1a
+- completed Week 3 videos
+- completed 1/3 problems in pset1
 
 <!-- #### Tier 2 - develop more expertise
 
