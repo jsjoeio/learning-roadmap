@@ -34,8 +34,7 @@ The following items have been taken from these guides:
 - completed pset1
 - completed Week 2
 - completed Week 3 videos
-- completed 1/3 problems in pset1
-- continue working on pset 2
+- completed 2/3 problems in pset2
 
 <!-- #### Tier 2 - develop more expertise
 
