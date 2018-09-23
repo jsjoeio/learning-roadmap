@@ -35,6 +35,7 @@ The following items have been taken from these guides:
 - completed Week 2
 - completed Week 3 videos
 - completed pset2
+- finished Week 3 5. Tuples
 
 <!-- #### Tier 2 - develop more expertise
 
