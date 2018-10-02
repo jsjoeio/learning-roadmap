@@ -19,7 +19,6 @@ The following items have been taken from these guides:
 * [ ] Course: [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 * [X] Article: Read [Project Specification Documents](http://www.pixelearth.net/pages/project-specification) and get in the habit of including every bit of information it details that makes sense for a project in the README.md or other supporting documentation for your projects
 * [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
-* [ ] Book: [Setting Up ES6](https://leanpub.com/setting-up-es6/read)
 * [X] Project: Build a Survey Form
 * [ ] Project: Build a Product Landing Page
 * [ ] Project: Build a Technical Documentation Page
