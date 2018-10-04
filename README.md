@@ -36,7 +36,7 @@ The following items have been taken from these guides:
 - completed pset2
 - finished Week 3 5. Tuples
 - made progress on pset3. Started writing in VSCode. Last one to finish is number 4 in pset3.
-- continued on problem 4
+- continued on problem 4. made some progress.
 
 
 <!-- #### Tier 2 - develop more expertise
