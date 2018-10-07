@@ -32,11 +32,10 @@ The following items have been taken from these guides:
 - completed Week 1 videos for Intro to Comp Sci...now onto Problem Sets
 - completed pset1
 - completed Week 2
-- completed Week 3 videos
 - completed pset2
-- finished Week 3 5. Tuples
-- made progress on pset3. Started writing in VSCode. Last one to finish is number 4 in pset3.
-- continued on problem 4. made some progress.
+- completed Week 3
+- completed pset 3
+- started Week 4. working through testing and debugging
 
 
 <!-- #### Tier 2 - develop more expertise
