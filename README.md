@@ -35,7 +35,7 @@ The following items have been taken from these guides:
 - completed pset2
 - completed Week 3
 - completed pset 3
-- started Week 4. working through testing and debugging
+- finished Week 4 - Part 7.
 
 
 <!-- #### Tier 2 - develop more expertise
