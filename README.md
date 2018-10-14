@@ -35,7 +35,8 @@ The following items have been taken from these guides:
 - completed pset2
 - completed Week 3
 - completed pset 3
-- finished Week 4 - Part 7.
+- completed Week 4
+- completed pset 4
 
 
 <!-- #### Tier 2 - develop more expertise
