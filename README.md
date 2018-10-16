@@ -41,6 +41,7 @@ The following items have been taken from these guides:
 - started "Advanced React" course by Wes Bos
 - started Week 5, finished part 9 & part 10
 - pset 5, finished problem 1
+- work on TwilioQuest a bit
 
 
 <!-- #### Tier 2 - develop more expertise
