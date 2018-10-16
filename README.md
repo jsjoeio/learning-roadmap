@@ -40,6 +40,7 @@ The following items have been taken from these guides:
 - completed pset 4
 - started "Advanced React" course by Wes Bos
 - started Week 5, finished part 9 & part 10
+- pset 5, finished problem 1
 
 
 <!-- #### Tier 2 - develop more expertise
