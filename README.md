@@ -41,6 +41,7 @@ The following items have been taken from these guides:
 - started "Advanced React" course by Wes Bos
 - completed Week 5
 - completed pset 5
+- worked on Week 6
 
 
 <!-- #### Tier 2 - develop more expertise
