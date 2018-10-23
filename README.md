@@ -42,7 +42,8 @@ The following items have been taken from these guides:
 - completed Week 5
 - completed pset 5
 - worked on Week 6
-- continued on Week 6
+- completed Week 6, part 11.
+- started Week 6, part 12
 
 
 <!-- #### Tier 2 - develop more expertise
