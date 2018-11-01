@@ -30,7 +30,7 @@ The following items have been taken from these guides:
 - completed CS50 on September 2nd, 2018
 - completed "Build a Survey Form" on September 9th, 2018
 - completed Introduction to Computer Science and Programming with Python on October 29th, 2018
-- started watching Advanced React. Stopped on video 6
+- started watching Advanced React. Stopped on video 6, stopped at 6:00
 
 
 <!-- #### Tier 2 - develop more expertise
