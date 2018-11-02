@@ -31,6 +31,7 @@ The following items have been taken from these guides:
 - completed "Build a Survey Form" on September 9th, 2018
 - completed Introduction to Computer Science and Programming with Python on October 29th, 2018
 - started watching Advanced React. Stopped on video 6, stopped at 6:00
+- submitted talk to JS Heroes and Phoenix WordCamp
 
 
 <!-- #### Tier 2 - develop more expertise
