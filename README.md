@@ -12,6 +12,7 @@ Some of the inspiration has come from these guides:
 - @p1xt's [Computer Science and Web Development - comprehensive](https://github.com/P1xt/p1xt-guides/blob/master/cs-wd.md)
 - @freeCodeCamp's [curriculum](https://learn.freecodecamp.org/)
 - @ossu's [computer science degree](https://github.com/ossu/computer-science)
+- conversation with [@trevor-scheer](https://github.com/trevor-scheer)
 
 #### Tier 1 - Getting Started 
 
