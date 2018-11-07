@@ -42,3 +42,4 @@ Some of the inspiration has come from these guides:
 - completed Introduction to Computer Science and Programming with Python on October 29th, 2018
 - submitted talk to JS Heroes and Phoenix WordCamp
 - started watching Advanced React. Stopped on video 13, 3 mins.
+- redeployed Prisma server
