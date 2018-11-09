@@ -33,6 +33,7 @@ Some of the inspiration has come from these guides:
 
 * [ ] Project: Build a Node CLI tool
 * [ ] Project: Publish a open source package on NPM
+* [ ] Project: Build a fullstack app with Apollo
 
 
 ##### Milestones 
