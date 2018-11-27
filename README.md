@@ -44,4 +44,4 @@ Some of the inspiration has come from these guides:
 - submitted talk to JS Heroes and Phoenix WordCamp
 - stopped at Advanced React - Module 4. Clientside GraphQL - video 21
 - finished working on Timezoner Extension
-- made progress on Python blog post
+- got our Twilio/Python app working!
