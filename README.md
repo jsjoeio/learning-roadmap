@@ -45,4 +45,4 @@ Some of the inspiration has come from these guides:
 - stopped at Advanced React - Module 4. Clientside GraphQL - video 21
 - finished working on Timezoner Extension
 - got our Twilio/Python app working!
-- worked on Twilio/Python blog post   
+- worked on Twilio/Python blog post. again. 
