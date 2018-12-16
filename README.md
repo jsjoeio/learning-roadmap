@@ -46,3 +46,4 @@ Some of the inspiration has come from these guides:
 - finished working on Timezoner Extension
 - got our Twilio/Python app working!
 - finished Twilio/Python blog post.
+- working on Gatsby freelance pro
