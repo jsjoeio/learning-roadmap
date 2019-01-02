@@ -42,8 +42,8 @@ Some of the inspiration has come from these guides:
 - completed "Build a Survey Form" on September 9th, 2018
 - completed Introduction to Computer Science and Programming with Python on October 29th, 2018
 - submitted talk to JS Heroes and Phoenix WordCamp
-- stopped at Advanced React - Module 4. Clientside GraphQL - video 21
 - finished working on Timezoner Extension
 - got our Twilio/Python app working!
 - finished Twilio/Python blog post.
 - working on Gatsby freelance pro
+- stopped at Advanced React - Module 4. Clientside GraphQL - video 22
